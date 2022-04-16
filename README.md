@@ -1,4 +1,4 @@
-# Solana-Development-with-React-Anchor-Rust-and-Phantom
+## Solana-Development-with-React-Anchor-Rust-and-Phantom
 
 ### Installation
 
