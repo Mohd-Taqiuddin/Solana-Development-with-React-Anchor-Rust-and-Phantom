@@ -12,7 +12,7 @@ Note: If you get error with npm i then use "npm i --legacy-peer-deps"
 ```bash
 solana-test-validator
 ```
-3. Build the anchor project
+3. Open new terminal and Build the anchor project
 ```bash
 anchor build
 ```
@@ -25,6 +25,7 @@ solana address -k target/deploy/<programname>-keypair.json
 ```bash
 anchor test
 ```
+Note: If you get error then stop the solana-test-validator and run the tests
 7. Change into the app directory and install the dependencies:
 ```bash
 cd app && npm i
